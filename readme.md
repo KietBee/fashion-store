@@ -1,34 +1,56 @@
-### Fashion store website template
+# Fashion Store
 
-![Fashion store website template](fashion-store-website.gif)
+A simple and elegant fashion e-commerce website built with HTML, CSS, and JavaScript.
 
-Fashion store HTML Template is a clean and single page design – suitable for selling clothing, fashion, high fashion, men fashion, women fashion, accessories, digital, kids, watches, jewelry, shoes, kids, furniture, sports, tools….. It has a fully responsive width adjusts automatically to any screen size or resolution.
+## Features
 
+- 🛍️ Browse through a collection of fashion items
+- 🔍 Search functionality
+- 🛒 Shopping cart
+- 📱 Responsive design for all devices
+- 🌙 Dark/Light mode support
 
-### Features
-- [x] HTML5 & CSS3
-- [x] No framework
-- [x] Responsive Template
-- [x] Free icons used
-- [x] Pixel Perfect
-- [x] Clean & Unique Design
-- [x] Easy to customize
-- [x] Retina Ready
-- [x] Unlimited Colors
-- [x] Boxed or Wide layout
+## Tech Stack
 
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
+## Getting Started
 
-.
-.
-.
-.
+### Prerequisites
 
-[![Nihory - Portfolio site template live demo](https://i.ibb.co/vwN8cgW/live-demo.png)](https://fashion-store-opensource.netlify.app/)
+- Any modern web browser (Chrome, Firefox, Safari, Edge)
 
-.
-.
-.
+### Installation
 
+1. Clone the repository:
+```bash
+git clone https://github.com/KietBee/fashion-store.git
+cd fashion-store
+```
 
-[![Atul - Buy Me A Coffee](https://i.ibb.co/7rR9S4L/buy-me-a-coffee.png)](https://www.buymeacoffee.com/atulcodex)
+2. Open `index.html` in your web browser to view the website.
+
+## Project Structure
+
+```
+fashion-store/
+├── index.html          # Main HTML file
+├── css/               # CSS stylesheets
+│   ├── style.css      # Main styles
+│   └── responsive.css # Responsive styles
+├── js/                # JavaScript files
+│   ├── main.js        # Main JavaScript
+│   └── cart.js        # Shopping cart functionality
+└── images/            # Image assets
+```
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
