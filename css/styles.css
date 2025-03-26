@@ -208,11 +208,14 @@ img {
 .home
 {
   background-color: var(--gray-color);
+
 }
 
 .home__container
 {
   height: calc(100vh - var(--header-height));
+  min-height: 700px;
+  position: relative;
 }
 
 .home__data
@@ -239,7 +242,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 260px;
+  width: 240px;
 }
 
 .home__description {
@@ -747,7 +750,7 @@ img {
 
   .home__img
   {
-    right: 15%;
+    right: 0;
   }
 }
 
